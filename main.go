@@ -23,4 +23,9 @@ func main() {
 
 	// joined := arraysandstrings.JoinString(split, " ")
 	// fmt.Println(joined)
+
+	// arr := []int{10, 23, 45, 67, 89, 12, 72, 11, 99, 38, 56, 88, 100, 1}
+	// res := searching.JumpSearch(arr, 101, 5)
+	// res := searching.TernarySearch(arr, 67)
+	// fmt.Println(res)
 }
