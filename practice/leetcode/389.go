@@ -1,6 +1,7 @@
 package leetcode
 
-// Time Complexity: O(n), Space Complexity: O(1)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 // func findTheDifference(s string, t string) byte {
 // 	var keyS [26]int
 // 	var keyT [26]int
@@ -21,7 +22,8 @@ package leetcode
 // 	return byte('a')
 // }
 
-// Time: O(n), Space: O(1)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 func findTheDifference(s string, t string) byte {
 	var res byte
 
