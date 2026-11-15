@@ -2,7 +2,7 @@ package leetcode
 
 import "strconv"
 
-// Time Complexity: O(n)
+// Time Complexity: O(1)
 // Space Complexity: O(1)
 func squareIsWhite(coordinates string) bool {
 	alpInt := coordinates[0] - 'a'
