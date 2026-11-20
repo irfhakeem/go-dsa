@@ -16,6 +16,6 @@ func hasSameDigits(s string) bool {
 		nums = nums[:end]
 		end--
 	}
-	a
+
 	return nums[0] == nums[1]
 }
